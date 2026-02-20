@@ -1,2 +1,2 @@
-raylib
+pyray
 neat-python
